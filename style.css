@@ -10,7 +10,7 @@
 /* SF Pro Display SemiBold */
 @font-face {
   font-family: "SF Pro Display";
-  src: url("assets/fonts/SF-PRO-Display-SemiBold.otf") format("opentype");
+  src: url("assets/fonts/SF-PRO-Display-Semibold.otf") format("opentype");
   font-weight: 600;
   font-style: normal;
 }
@@ -20,6 +20,13 @@
   font-family: "SF Pro Text";
   src: url("assets/fonts/SF-PRO-Text-Bold.otf") format("opentype");
   font-weight: bold;
+  font-style: normal;
+}
+/* SF Pro Text SemiBold */
+@font-face {
+  font-family: "SF Pro Text";
+  src: url("assets/fonts/SF-PRO-Text-Semibold.otf") format("opentype");
+  font-weight: 600;
   font-style: normal;
 }
 
